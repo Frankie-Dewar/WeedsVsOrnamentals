@@ -1,0 +1,1 @@
+The GloVe embeddings file (glove.6B.200d.txt, ~330MB) exceeds GitHub's file size limit and is not stored directly in this repository. The notebook automatically downloads it from the original source (Stanford NLP) on first run.
