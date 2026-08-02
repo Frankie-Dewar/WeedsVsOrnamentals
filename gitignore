@@ -1,0 +1,4 @@
+# GloVe embeddings -- too large for GitHub, downloaded automatically
+# by the notebook's setup cell instead of being committed.
+glove.6B.200d.txt
+glove.6B.zip
